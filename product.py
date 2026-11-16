@@ -1,0 +1,22 @@
+products = [
+    {"id": 1, "name": "iPhone 15", "category": "Electronics", "price": 799.99, "stock": 15, "description": "Apple smartphone with 128GB storage"},
+    {"id": 2, "name": "Samsung Galaxy S24", "category": "Electronics", "price": 899.99, "stock": 10, "description": "Samsung smartphone with AMOLED display"},
+    {"id": 3, "name": "MacBook Air M3", "category": "Computers", "price": 1299.99, "stock": 8, "description": "Apple laptop with M3 chip and 16GB RAM"},
+    {"id": 4, "name": "Dell XPS 13", "category": "Computers", "price": 1199.99, "stock": 5, "description": "Dell ultrabook with Intel Core Ultra processor"},
+    {"id": 5, "name": "Sony WH-1000XM5", "category": "Audio", "price": 349.99, "stock": 20, "description": "Wireless noise-cancelling headphones"},
+    {"id": 6, "name": "AirPods Pro 2", "category": "Audio", "price": 249.99, "stock": 25, "description": "Apple wireless earbuds with noise cancellation"},
+    {"id": 7, "name": "Logitech MX Master 3S", "category": "Accessories", "price": 99.99, "stock": 30, "description": "Ergonomic wireless mouse"},
+    {"id": 8, "name": "Keychron K2", "category": "Accessories", "price": 89.99, "stock": 18, "description": "Wireless mechanical keyboard"},
+    {"id": 9, "name": "Samsung 27-inch Monitor", "category": "Monitors", "price": 299.99, "stock": 12, "description": "27-inch 4K UHD monitor"},
+    {"id": 10, "name": "LG UltraWide 34", "category": "Monitors", "price": 499.99, "stock": 7, "description": "34-inch ultrawide curved monitor"},
+    {"id": 11, "name": "PlayStation 5", "category": "Gaming", "price": 549.99, "stock": 9, "description": "Sony gaming console"},
+    {"id": 12, "name": "Xbox Series X", "category": "Gaming", "price": 499.99, "stock": 6, "description": "Microsoft gaming console"},
+    {"id": 13, "name": "Nintendo Switch OLED", "category": "Gaming", "price": 349.99, "stock": 14, "description": "Portable gaming console with OLED screen"},
+    {"id": 14, "name": "Canon EOS R50", "category": "Cameras", "price": 799.99, "stock": 4, "description": "Mirrorless camera for photography and video"},
+    {"id": 15, "name": "GoPro HERO12", "category": "Cameras", "price": 399.99, "stock": 11, "description": "Waterproof action camera"},
+    {"id": 16, "name": "Apple Watch Series 9", "category": "Wearables", "price": 429.99, "stock": 16, "description": "Apple smartwatch with health tracking"},
+    {"id": 17, "name": "Samsung Galaxy Watch 6", "category": "Wearables", "price": 299.99, "stock": 13, "description": "Samsung smartwatch with fitness tracking"},
+    {"id": 18, "name": "Anker Power Bank 20000mAh", "category": "Accessories", "price": 59.99, "stock": 40, "description": "Portable fast-charging power bank"},
+    {"id": 19, "name": "WD External SSD 1TB", "category": "Storage", "price": 129.99, "stock": 22, "description": "Portable high-speed external SSD"},
+    {"id": 20, "name": "SanDisk USB-C Flash Drive 256GB", "category": "Storage", "price": 39.99, "stock": 35, "description": "USB-C flash drive for fast file transfers"}
+]
